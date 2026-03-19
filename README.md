@@ -2,6 +2,11 @@
 
 > 快速扫描并清理 iPhone 相册中的相似照片。
 
+<p align="left">
+  <img src="./assets/screenshot_0.jpeg" width="240" />
+  <img src="./assets/screenshot_1.jpeg" width="240" />
+</p>
+
 ## 功能特性
 
 - **智能识别** — 基于 Apple Vision 框架的特征向量算法，精准找出相似照片
